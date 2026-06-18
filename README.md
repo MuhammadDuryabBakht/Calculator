@@ -1,2 +1,2 @@
 # Calculator
-This is calculator which can make easy your calculations
+This is calculator which can make your calculations easy
