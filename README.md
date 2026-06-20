@@ -35,7 +35,6 @@ This project helped me understand the basics of C++ programming, including user 
 
  Future Improvements
 
-* Support floating-point calculations.
 * Handle division by zero.
 * Perform multiple calculations without restarting the program.
 * Add input validation for invalid operators.
