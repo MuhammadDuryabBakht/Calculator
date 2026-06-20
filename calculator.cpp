@@ -7,7 +7,7 @@ int main(){
     cout<<"Enter 2st number: ";
     cin>>y;
     char op;
-    cout<<"Enter Arithmetic opreation you want to perfrom: "<<endl;
+    cout<<"Enter Arithmetic opreation you want to perfrom: ";
     cin>>op;
     switch(op){
         case('+'):
